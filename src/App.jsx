@@ -6,10 +6,10 @@ import Table from './components/Table'
 const App=()=>{
 
 const name=" "
-// const isloggedin=false
+ const isloggedin=false
 
 
-// let isloding=true
+ let isloding=true
 
 // function loading(){
 //   return  setTimeout(()=>{
